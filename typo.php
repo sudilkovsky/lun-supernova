@@ -14,7 +14,7 @@
 <body>
 
 <?php include 'http://sd-03.lundev.net/lun-supernova/_import/menu.html'; ?>
-
+<?php phpinfo(); ?>
 
 
 <style>
