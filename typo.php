@@ -11,7 +11,7 @@
   <title>ЛУН.ua Supernova</title>
 
 
-<body style="font-size: 1.5em;">
+<body>
 
 
 

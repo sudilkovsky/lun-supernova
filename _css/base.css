@@ -3,6 +3,8 @@
 	base decoration
 */
 
+body {font-size: 1.5em;}
+
 .mt_m {margin-top: 16px;}
 .mt_l {margin-top: 24px;}
 .mt_xl {margin-top: 32px;}
