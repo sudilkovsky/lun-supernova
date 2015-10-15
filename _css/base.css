@@ -4,12 +4,18 @@
 */
 
 body {font-size: 1.5em;}
+#footer {margin-top: 96px;}
 
 code {
 	color: #607D8B;
 	background-color: #ECEFF1;
 }
 
+h3 {margin-top: 48px;}
+
+
+
+/* base margins */
 .mt_m {margin-top: 16px;}
 .mt_l {margin-top: 24px;}
 .mt_xl {margin-top: 32px;}
