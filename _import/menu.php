@@ -1,3 +1,4 @@
+<?php echo '
 <nav class="navbar navbar-default">
   <div class="container-fluid">
 
@@ -30,4 +31,5 @@
       </ul>
     </div>
   </div>
-</nav> 
+</nav> '
+?>
