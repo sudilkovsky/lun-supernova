@@ -15,8 +15,7 @@
 
 
 <?php
-    $google_page = file_get_contents('http://sd-03.lundev.net/lun-supernova/_import/menu.html');
-    echo $google_page;
+    echo file_get_contents('http://sd-03.lundev.net/lun-supernova/_import/menu.html');
     ?>
 
 
