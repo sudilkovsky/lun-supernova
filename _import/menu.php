@@ -9,7 +9,7 @@
         <span class="icon-bar"></span>
       </button>
       
-      <a class="navbar-brand" href="#">Supernova</a>
+      <a class="navbar-brand" href="#">Supernova<sup>α</sup></a>
     </div>
 
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-12">
