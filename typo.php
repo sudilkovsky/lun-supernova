@@ -8,14 +8,12 @@
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
   
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-  <title>ЛУН.ua Supernova</title>
-
-
+  </head>
 <body>
-
+<title>ЛУН.ua Supernova</title>
 
 <?php
-    echo file_get_contents('/lun-supernova/_import/menu.html');
+    echo file_get_contents('http://sd-03.lundev.net/lun-supernova/_import/menu.html');
     ?>
 
 
