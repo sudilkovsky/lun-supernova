@@ -1,21 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-  <meta charset="utf-8">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-  <link rel="stylesheet" href="https://bootswatch.com/paper/bootstrap.min.css">
-  <link rel="stylesheet" href="_css/base.css">
-  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
-  
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-  </head>
-<body>
-<title>ЛУН.ua Supernova</title>
-
 <?php
+    echo file_get_contents('http://sd-03.lundev.net/lun-supernova/_import/head.html');
     echo file_get_contents('http://sd-03.lundev.net/lun-supernova/_import/menu.html');
     ?>
 
+<title>ЛУН.ua Supernova</title>
 
 <style>
 .body-xs, 
@@ -225,5 +213,7 @@
 	</div>
 </div>
 
-</body>
-</html>
+
+<?php
+    echo file_get_contents('http://sd-03.lundev.net/lun-supernova/_import/foot.html');
+?>
