@@ -13,7 +13,7 @@
 
 <body>
 
-<?php include '/lun-supernova/_import/menu.php' ?>
+<?php include 'http://sd-03.lundev.net/lun-supernova/_import/menu.php' ?>
 
 
 
