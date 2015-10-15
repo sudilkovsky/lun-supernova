@@ -3,7 +3,7 @@
     echo file_get_contents('http://sd-03.lundev.net/lun-supernova/_import/menu.html');
     ?>
 
-<title>ЛУН.ua Supernova</title>
+<title>Типографика</title>
 
 <style>
 .body-xs, 
@@ -81,7 +81,8 @@
 	<div class="row">
 		<div class="col-sm-8">
 			<p>Используем классы для определения внешнего вида элементов. Это дает большую степень свободы при разметке.</p>
-			<p>Везде шрифт <a href="https://www.google.com/fonts#UsePlace:use/Collection:Open+Sans" target="_blank">Open Sans</a> жирностью 400, 600 и 800.</p>
+			<p>Основной и единственный шрифт: <a href="https://www.google.com/fonts#UsePlace:use/Collection:Open+Sans" target="_blank">Open Sans</a> в начертаниях жирностью 400, 600 и 800.</p>
+			<p>Для заголовков и текстовых блоков доступны модификаторы <code>-1</code> и <code>-2</code>. -1 используется для широких колонок, -2 для узких (содержит увеличенный межстрочный интервал).</p>
 			
 		</div>
 	</div>
