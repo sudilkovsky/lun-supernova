@@ -13,7 +13,7 @@
 
 <body>
 
-<?php import '/lun-supernova/_import/menu.php' ?>
+<?php include '/lun-supernova/_import/menu.php' ?>
 
 <nav class="navbar navbar-default">
   <div class="container-fluid">
