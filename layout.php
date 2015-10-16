@@ -14,7 +14,7 @@
 		<div class="col-sm-12">
 				
 			<div class="page-header">
-			  <h1>Интерфейсная сетка <small>размеры и отступы</small></h1>
+			  <h1>Интерфейсная сетка <small>размеры, отступы, ритм</small></h1>
 			</div>
 			
 		</div>
@@ -29,13 +29,17 @@
 	</div>
 	<div class="row">
 		<div class="col-sm-8">
-			<h3>Отступы</h3>
+			<h3>Размеры и отступы</h3>
 			<p>Выделенные размеры наиболее рекомендуемые для использования как в качестве внешних, так и&nbsp;внутренних отступов.</p>
 		</div>
 	</div>
 	<div class="row">
 		<div class="col-xs-5 col-sm-3">
 			<table class="table table-condensed">
+				<tr>
+					<th>Размер</th>
+					<th>Значение (dp)</th>
+				</tr>
 				<tr>
 					<td>xs</td>
 					<td>4</td>
