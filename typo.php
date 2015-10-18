@@ -100,7 +100,6 @@
 .h1-1 {
 	font-size: 45px;
 	line-height: 48px;
-	font-weight: 300;
 }</pre>
 		</div>
 		<div class="col-sm-6 h2-1">
