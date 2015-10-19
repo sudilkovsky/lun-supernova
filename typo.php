@@ -60,7 +60,7 @@
 }
 .h2-1 {
 	font-size: 38px;
-	line-height: 40px;
+	line-height: 52px;
 }
 .h1-1 {
 	font-size: 45px;
@@ -109,7 +109,7 @@
 			<pre>
 .h2-1 {
 	font-size: 38px;
-	line-height: 40px;
+	line-height: 52px;
 }</pre>
 		</div>
 		<div class="col-sm-6 h3-1">
