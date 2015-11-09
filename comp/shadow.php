@@ -30,20 +30,64 @@
 	<div class="row">
 		<div class="col-sm-12">
 			<hr>
+			<h3>Типы</h3>
+		</div>
+	</div>
+
+    <div class="row mt_s">
+		<div class="col-sm-6">
+
+			<p>S:
+				<br/>
+				<code>box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);</code>
+			</p>
+
+			<p>M:
+				<br/>
+				<code>box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);</code>
+			</p>
+
+			<p>L:
+				<br/>
+				<code>box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);</code>
+			</p>
+
+		</div>
+
+		<div class="col-sm-6">
+			<img src="_img/comp/shadow/shadow-types.png" class="img-responsive"/>
+		</div>
+	</div>
+
+
+
+   <div class="row">
+		<div class="col-sm-12">
+			<hr>
+			<h3>Использование</h3>
+		</div>
+	</div>
+
+    <div class="row">
+		<div class="col-sm-12">
 			<h5>Карточка</h5>
 		</div>
 	</div>
+
 	<div class="row mt_s">
 		<div class="col-sm-6">
 			<p>Обычное состояние:
 				<br/>
-				<code>box-shadow: 0 1px 2px rgba(5, 5, 6, 0.1);</code>
+				<code>S</code>
 			</p>
-			
-			<p>При наведении: <br/><code>box-shadow: 0 0px 8px rgba(5, 5, 6, 0.28);</code></p>
+
+			<p>При наведении
+				<br/>
+				<code>L</code>
+			</p>
 		</div>
 
-		<div class="col-sm-6"> 
+		<div class="col-sm-6">
 			<img src="_img/comp/shadow/shadow-card.png" class="img-responsive"/>
 		</div>
 	</div>
@@ -51,20 +95,19 @@
 
 	<div class="row">
 		<div class="col-sm-12">
-			<hr>
 			<h5>Элементы управления</h5>
 		</div>
 	</div>
+
 	<div class="row mt_s">
 		<div class="col-sm-6">
 			<p>Обычное состояние:
 				<br/>
-				<code>box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
-				</code>
+				<code>M</code>
 			</p>
 		</div>
 
-		<div class="col-sm-6"> 
+		<div class="col-sm-6">
 			<img src="_img/comp/shadow/shadow-element.png" class="img-responsive"/>
 		</div>
 	</div>
