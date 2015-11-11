@@ -72,18 +72,6 @@
 					<td>4xl</td>
 					<td>128</td>
 				</tr>
-				<tr>
-					<td>5xl</td>
-					<td>256</td>
-				</tr>
-				<tr>
-					<td>6xl</td>
-					<td>384</td>
-				</tr>
-				<tr>
-					<td>7xl</td>
-					<td>480</td>
-				</tr>
 			</table>
 		</div>
 	</div>
