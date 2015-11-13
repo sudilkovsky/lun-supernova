@@ -59,29 +59,29 @@
 		<div class="col-xs-3">
 			<div class="color-box color-box_acent">
 			</div>
-			<p>Акцент <code>#FF9800</code></p>
+			<p>lunOrange <code>#FF9800</code></p>
 		</div>
 		<div class="col-xs-3">
 			<div class="color-box color-box_link">
 			</div>
-			<p>Ссылки <code>#6688BB</code></p>
+			<p>linkColor <code>#6688BB</code></p>
 		</div>
 	</div>
 	<div class="row">
 		<div class="col-xs-3">
 			<div class="color-box color-box_text">
 			</div>
-			<p>Текст <code>#333333</code></p>
+			<p>grayDark <code>#333333</code></p>
 		</div>
 		<div class="col-xs-3">
 			<div class="color-box color-box_card">
 			</div>
-			<p>Карточки <code>#FFFFFF</code></p>
+			<p>white <code>#FFFFFF</code></p>
 		</div>
 		<div class="col-xs-3">
 			<div class="color-box color-box_background">
 			</div>
-			<p>Фон <code>#F5F5F5</code></p>
+			<p>bodyBG <code>#F5F5F5</code></p>
 		</div>
 	</div>
 	<div class="row">
