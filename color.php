@@ -14,18 +14,23 @@
 	.color-box_small {
 		height: 48px;
 	}
-	
+
 	.color-box_acent {
 		background-color: #ff9800;
 	}
 	.color-box_link {
 		background-color: #6688BB;
 	}
+
+    .color-box_selection {
+        background-color: #EEEEEE;
+    }
+
 	.color-box_text {
 		background-color: #333333;
 	}
 	.color-box_card {
-		background-color: #ffffff;
+		background-color: #FFFFFF;
 	}
 	.color-box_background {
 		background-color: #F5F5F5;
@@ -36,18 +41,18 @@
 <div class="container">
 	<div class="row">
 		<div class="col-sm-12">
-				
+
 			<div class="page-header">
 			  <h1>Цвета <small>оттенки, тени</small></h1>
 			</div>
-			
+
 		</div>
 	</div>
 	<div class="row">
 		<div class="col-sm-8">
 
-			
-			
+
+
 		</div>
 	</div>
 	<div class="row">
@@ -61,11 +66,19 @@
 			</div>
 			<p>lunOrange <code>#FF9800</code></p>
 		</div>
+
 		<div class="col-xs-3">
 			<div class="color-box color-box_link">
 			</div>
 			<p>linkColor <code>#6688BB</code></p>
 		</div>
+
+        <div class="col-xs-3">
+            <div class="color-box color-box_selection">
+            </div>
+            <p>grayLighter <code>#EEEEEE</code></p>
+        </div>
+
 	</div>
 	<div class="row">
 		<div class="col-xs-3">
