@@ -29,7 +29,7 @@
 	</div>
 	<div class="row">
 		<div class="col-sm-8">
-			<h3>Размеры и отступы</h3>
+			<h3>Отступы</h3>
 			<p>Выделенные размеры наиболее рекомендуемые для использования как в качестве внешних, так и&nbsp;внутренних отступов.</p>
 		</div>
 	</div>
@@ -73,6 +73,22 @@
 					<td>128</td>
 				</tr>
 			</table>
+		</div>
+		<div class="col-sm-8 col-sm-offset-1">
+			<img src="_img/layout-margin.png" class="img-responsive" />
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-8">
+			<h3>Размеры</h3>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-4">
+			<p>Для определения размеров элементов используется ритм. Ритм берут кратным отступу <code>m</code>&nbspили&nbsp;<code>m×2</code>.</p>
+		</div>
+		<div class="col-sm-8">
+			<img src="_img/layout-rythm.png" class="img-responsive" />
 		</div>
 	</div>
 </div>
