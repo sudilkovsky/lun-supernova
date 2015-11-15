@@ -6,6 +6,31 @@
 <title>Тени</title>
 
 <style>
+	.background-card {
+		background-color: #f5f5f5;
+        padding: 16px;
+	}
+
+    .card {
+        background-color: rgba(255, 255, 255, 0.0);
+
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+
+        background-image:url("_img/comp/shadow/card.png");
+
+        width: 220px;
+        border-radius: 2px;
+
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+	}
+
+    .card:hover {
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+        transition: box-shadow 0.2s ease-in-out;
+	}
+
 </style>
 
 
@@ -49,7 +74,7 @@
 
 			<p>L:
 				<br/>
-				<code>box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);</code>
+				<code>box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);</code>
 			</p>
 
 		</div>
@@ -88,7 +113,14 @@
 		</div>
 
 		<div class="col-sm-6">
-			<img src="_img/comp/shadow/shadow-card.png" class="img-responsive"/>
+            <div class="background-card">
+
+                <div class="card">
+                    <img src="_img/comp/shadow/shadow-card.png" class="img-responsive"/>
+                </div>
+
+            </div>
+
 		</div>
 	</div>
 
