@@ -76,7 +76,7 @@
 				<code>box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);</code>
 			</p>
 
-			<p>L:
+			<p>L: используется для ховеров
 				<br/>
 				<code>box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);</code>
 			</p>
