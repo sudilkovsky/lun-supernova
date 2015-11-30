@@ -45,7 +45,14 @@
 			<img src="_img/comp/table/table-structure.png" class="img-responsive" />
 		</div>
 	</div>	
-	
+	<div class="row mt_xl">
+		<div class="col-sm-4">
+			<p>Содержимое строки может быть многострочным.</p>
+		</div>
+		<div class="col-sm-8">
+			<img src="_img/comp/table/table-doble-row.png" class="img-responsive" />
+		</div>
+	</div>	
 		
 
 </div>
