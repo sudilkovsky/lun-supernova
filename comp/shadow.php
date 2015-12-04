@@ -66,17 +66,17 @@
     <div class="row mt_s">
 		<div class="col-sm-6">
 
-			<p>S:
+			<p>S
 				<br/>
 				<code>box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);</code>
 			</p>
 
-			<p>M:
+			<p>M
 				<br/>
 				<code>box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);</code>
 			</p>
 
-			<p>L: используется для ховеров
+			<p>L
 				<br/>
 				<code>box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);</code>
 			</p>
