@@ -32,7 +32,7 @@
 	}
 
     .card:hover {
-        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
 	}
 
 </style>
@@ -73,12 +73,12 @@
 
 			<p>M
 				<br/>
-				<code>box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);</code>
+				<code>box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);</code>
 			</p>
 
 			<p>L
 				<br/>
-				<code>box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);</code>
+				<code>box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);</code>
 			</p>
 
 		</div>

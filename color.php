@@ -73,29 +73,33 @@
 			<p>linkColor <code>#6688BB</code></p>
 		</div>
 
-        <div class="col-xs-3">
+        <!-- <div class="col-xs-3">
             <div class="color-box color-box_selection">
             </div>
             <p>grayLighter <code>#EEEEEE</code></p>
-        </div>
+        </div> -->
 
 	</div>
 	<div class="row">
+
 		<div class="col-xs-3">
 			<div class="color-box color-box_text">
 			</div>
 			<p>grayDark <code>#333333</code></p>
 		</div>
-		<div class="col-xs-3">
-			<div class="color-box color-box_card">
-			</div>
-			<p>white <code>#FFFFFF</code></p>
-		</div>
+
 		<div class="col-xs-3">
 			<div class="color-box color-box_background">
 			</div>
 			<p>bodyBG <code>#F5F5F5</code></p>
 		</div>
+
+        <div class="col-xs-3">
+			<div class="color-box color-box_card">
+			</div>
+			<p>white <code>#FFFFFF</code></p>
+		</div>
+
 	</div>
 	<div class="row">
 		<div class="col-sm-12">
@@ -122,9 +126,9 @@
 			<p><code>#000000</code></p>
 		</div>
 		<div class="col-xs-2">
-			<div class="color-box color-box_small" style="background-color: #666666;">
+			<div class="color-box color-box_small" style="background-color: #9E9E9E;">
 			</div>
-			<p><code>#666666</code></p>
+			<p><code>#9E9E9E</code></p>
 		</div>
 		<div class="col-xs-2">
 			<div class="color-box color-box_small" style="background-color: #BBBBBB;">
