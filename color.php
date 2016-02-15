@@ -131,9 +131,9 @@
 			<p><code>#9E9E9E</code></p>
 		</div>
 		<div class="col-xs-2">
-			<div class="color-box color-box_small" style="background-color: #BBBBBB;">
+			<div class="color-box color-box_small" style="background-color: #BDBDBD;">
 			</div>
-			<p><code>#BBBBBB</code></p>
+			<p><code>#BDBDBD</code></p>
 		</div>
 	</div>
 </div>

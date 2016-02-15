@@ -76,7 +76,7 @@
 				<code>box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);</code>
 			</p>
 
-			<p>L
+            <p>L
 				<br/>
 				<code>box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);</code>
 			</p>
@@ -113,8 +113,6 @@
 			<p>При наведении:
 				<br/>
                 <code>L</code>
-                <br/>
-				Анимация за <code>0.2s</code> с переходом <code>ease-in-out</code>
 			</p>
 		</div>
 
@@ -129,7 +127,6 @@
             <p class="comment">
                 Чтобы поменять тень наведите курсор на карточку
             </p>
-
 		</div>
 	</div>
 
