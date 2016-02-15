@@ -3,7 +3,7 @@
     echo file_get_contents('http://sd-03.lundev.net/lun-supernova/_import/menu.html');
     ?>
 
-<title>Формы</title>
+<title>Поля ввода</title>
 
 <style>
 </style>
