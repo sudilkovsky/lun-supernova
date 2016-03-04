@@ -23,7 +23,7 @@
 	}
 
     .color-box_selection {
-        background-color: #EEEEEE;
+        background-color: #E0E0E0;
     }
 
 	.color-box_text {
@@ -73,11 +73,11 @@
 			<p>linkColor <code>#6688BB</code></p>
 		</div>
 
-        <!-- <div class="col-xs-3">
+        <div class="col-xs-3">
             <div class="color-box color-box_selection">
             </div>
-            <p>grayLighter <code>#EEEEEE</code></p>
-        </div> -->
+            <p>grayLighter <code>#E0E0E0</code></p>
+        </div>
 
 	</div>
 	<div class="row">

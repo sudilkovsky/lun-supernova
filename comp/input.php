@@ -61,7 +61,7 @@
 	</div>
 	<div class="row mt_xl">
 		<div class="col-sm-4">
-			<p>Текст поля ввода набран шрифтом параграфа в начертании <code>regular</code>.</p>
+			<!-- <p>Текст поля ввода набран шрифтом параграфа в начертании <code>regular</code>.</p> -->
 		</div>
 		<div class="col-sm-8">
 			<img src="_img/comp/input/input-default.png" class="img-responsive" />
@@ -69,7 +69,7 @@
 	</div>
 	<div class="row mt_s">
 		<div class="col-sm-4">
-			<p>Плоское поле подсвечиваем при вводе.</p>
+			<!-- <p>Плоское поле подсвечиваем при вводе.</p> -->
 		</div>
 		<div class="col-sm-8">
 			<img src="_img/comp/input/input-error.png" class="img-responsive" />
