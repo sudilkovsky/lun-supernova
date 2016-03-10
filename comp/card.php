@@ -12,21 +12,21 @@
 <div class="container">
 	<div class="row">
 		<div class="col-sm-12">
-				
+
 			<div class="page-header">
 			  <h1>Карточки</h1>
 			</div>
-			
+
 		</div>
 	</div>
 	<div class="row">
 		<div class="col-sm-4">
 
 			<p>Используются для вывода однотипной информации в виде плитки или списка, а так же для разбития контента на логические блоки на странице. Содержимое карточки состоит из отдельных блоков, которые могут дополняться и изменяться не нарушая правил построения карточек в <a href="http://www.google.com/design/spec/components/cards.html#">Google Material Design.</a></p>
-			
+
 		</div>
 		<div class="col-sm-8">
-			<img src="_img/comp/card/card-example.png" class="img-responsive" />
+			<img src="_img/comp/card/example.png" class="img-responsive" />
 		</div>
 	</div>
 	<div class="row">
@@ -44,7 +44,7 @@
 			<p>При разработке шаблонов настоятельно рекомендуется ограничить и стандартизировать размеры изображений для снижения нагрузки на&nbsp;сервер.</p>
 		</div>
 		<div class="col-sm-8">
-			<img src="_img/comp/card/card__media.png" class="img-responsive" />
+			<img src="_img/comp/card/media.png" class="img-responsive" />
 		</div>
 	</div>
 	<div class="row mt_s">
@@ -52,7 +52,7 @@
 			<p>Отступы внутри блока Медиа диктуются содержимым. Например, Заголовки отступают на 16dp, а Действия &mdash; на 8dp.</p>
 		</div>
 		<div class="col-sm-8">
-			<img src="_img/comp/card/card__media_structure.png" class="img-responsive" />
+			<img src="_img/comp/card/structure.png" class="img-responsive" />
 		</div>
 	</div>
 	<div class="row mt_s">
@@ -62,7 +62,7 @@
 			<p>При необходимости еще большего повышения контраста к тексту добавляем тень.<br /><code>text-shadow: 0px 0px 4px rgba(0,0,0,0.50);</code></p>
 		</div>
 		<div class="col-sm-8">
-			<img src="_img/comp/card/card__media_structure_show-shadow.png" class="img-responsive" />
+			<img src="_img/comp/card/gradient.png" class="img-responsive" />
 		</div>
 	</div>
 	<div class="row mt_xl">
@@ -72,7 +72,7 @@
 			<p>Размер заголовков подбирается исходя из&nbsp;размера карточки но только из списка <a href="typo.php">Типографики</a>.</p>
 		</div>
 		<div class="col-sm-8">
-			<img src="_img/comp/card/card__titles.png" class="img-responsive" />
+			<img src="_img/comp/card/titles.png" class="img-responsive" />
 		</div>
 	</div>
 	<div class="row mt_xl">
@@ -83,7 +83,7 @@
 			<p>При наборном тексте отступ между параграфами равен одной пустой строке.</p>
 		</div>
 		<div class="col-sm-8">
-			<img src="_img/comp/card/card__content.png" class="img-responsive" />
+			<img src="_img/comp/card/content.png" class="img-responsive" />
 		</div>
 	</div>
 	<div class="row mt_xl">
@@ -94,7 +94,7 @@
 
 		</div>
 		<div class="col-sm-8">
-			<img src="_img/comp/card/card__action.png" class="img-responsive" />
+			<img src="_img/comp/card/action.png" class="img-responsive" />
 		</div>
 	</div>
 	<div class="row mt_s">
@@ -104,7 +104,7 @@
 
 		</div>
 		<div class="col-sm-8">
-			<img src="_img/comp/card/card__action_click-area.png" class="img-responsive" />
+			<img src="_img/comp/card/area.png" class="img-responsive" />
 		</div>
 	</div>
 	<div class="row mt_xl">
@@ -115,12 +115,12 @@
 
 		</div>
 		<div class="col-sm-8">
-			<img src="_img/comp/card/card__break.png" class="img-responsive" />
+			<img src="_img/comp/card/break.png" class="img-responsive" />
 		</div>
 	</div>
-	
-	
-	
+
+
+
 	<div class="row mt_xl">
 		<div class="col-sm-12">
 			<hr>
@@ -136,7 +136,7 @@
 
 		</div>
 		<div class="col-sm-8">
-			<img src="_img/comp/card/card-horizontal-card.png" class="img-responsive" />
+			<img src="_img/comp/card/horizontal.png" class="img-responsive" />
 		</div>
 	</div>
 

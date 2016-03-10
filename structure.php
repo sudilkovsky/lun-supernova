@@ -38,7 +38,7 @@
 			<p>1200dp ≤ ширина контента </p>
 		</div>
         <div class="col-sm-8">
-			<img src="_img/structure/structure-desktop.png" class="img-responsive" />
+			<img src="_img/structure/desktop.png" class="img-responsive" />
 		</div>
 	</div>
 
@@ -53,7 +53,7 @@
 			<p>940dp ≤ ширина контента < 1200dp</p>
 		</div>
         <div class="col-sm-8">
-			<img src="_img/structure/structure-landscape.png" class="img-responsive" />
+			<img src="_img/structure/landscape.png" class="img-responsive" />
 		</div>
 	</div>
 
@@ -68,7 +68,7 @@
             <p>726dp ≤ ширина контента < 940dp</p>
         </div>
         <div class="col-sm-8">
-            <img src="_img/structure/structure-portrait.png" class="img-responsive" />
+            <img src="_img/structure/portrait.png" class="img-responsive" />
         </div>
     </div>
 
@@ -83,7 +83,7 @@
             <p>ширина контента < 726dp</p>
         </div>
         <div class="col-sm-8">
-            <img src="_img/structure/structure-mobile.png" class="img-responsive" />
+            <img src="_img/structure/mobile.png" class="img-responsive" />
         </div>
     </div>
 

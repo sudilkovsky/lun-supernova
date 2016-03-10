@@ -12,11 +12,11 @@
 <div class="container">
 	<div class="row">
 		<div class="col-sm-12">
-				
+
 			<div class="page-header">
 			  <h1>Интерфейсная сетка <small>размеры, отступы, ритм</small></h1>
 			</div>
-			
+
 		</div>
 	</div>
 	<div class="row">
@@ -75,7 +75,7 @@
 			</table>
 		</div>
 		<div class="col-sm-8 col-sm-offset-1">
-			<img src="_img/layout-margin.png" class="img-responsive" />
+			<img src="_img/layout/margin.png" class="img-responsive" />
 		</div>
 	</div>
 	<div class="row">
@@ -88,7 +88,7 @@
 			<p>Для определения размеров элементов используется ритм. Ритм берут кратным отступу <code>m</code>&nbspили&nbsp;<code>m×2</code>.</p>
 		</div>
 		<div class="col-sm-8">
-			<img src="_img/layout-rythm.png" class="img-responsive" />
+			<img src="_img/layout/rythm.png" class="img-responsive" />
 		</div>
 	</div>
 </div>

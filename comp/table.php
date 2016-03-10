@@ -12,21 +12,21 @@
 <div class="container">
 	<div class="row">
 		<div class="col-sm-12">
-				
+
 			<div class="page-header">
 			  <h1>Таблицы  <small>Data</small></h1>
 			</div>
-			
+
 		</div>
 	</div>
 	<div class="row">
 		<div class="col-sm-4">
 
 			<p>Представление табличных данных.</p>
-			
+
 		</div>
 		<div class="col-sm-8">
-			<img src="_img/comp/table/table-example.png" class="img-responsive" />
+			<img src="_img/comp/table/example.png" class="img-responsive" />
 		</div>
 	</div>
 	<div class="row">
@@ -42,18 +42,18 @@
 			<p>Подробнее <a href="typo.php">о типографике</a>.</p>
 		</div>
 		<div class="col-sm-8">
-			<img src="_img/comp/table/table-structure.png" class="img-responsive" />
+			<img src="_img/comp/table/structure.png" class="img-responsive" />
 		</div>
-	</div>	
+	</div>
 	<div class="row mt_xl">
 		<div class="col-sm-4">
 			<p>Содержимое строки может быть многострочным.</p>
 		</div>
 		<div class="col-sm-8">
-			<img src="_img/comp/table/table-doble-row.png" class="img-responsive" />
+			<img src="_img/comp/table/doblerow.png" class="img-responsive" />
 		</div>
-	</div>	
-		
+	</div>
+
 
 </div>
 

@@ -50,8 +50,7 @@
 	<div class="row">
 		<div class="col-sm-8">
 			<p>Используем чтобы показать, как объекты расположены друг относительно друга.</p>
-			<p>Тени исполняют функцию обозначения иерархии элементов на экране. Например, если подъем элемента больше, то и тень у него больше.</p>
-			<p>Эта увеличенная глубина помогает сфокусировать внимание пользователя.</p>
+			<p>Тени исполняют функцию обозначения иерархии элементов на экране. Чем больше подъем — тем больше тень.</p>
 		</div>
 	</div>
 
@@ -64,7 +63,7 @@
 	</div>
 
     <div class="row mt_s">
-		<div class="col-sm-6">
+		<div class="col-sm-4">
 
 			<p>S
 				<br/>
@@ -83,8 +82,8 @@
 
 		</div>
 
-		<div class="col-sm-6">
-			<img src="_img/comp/shadow/shadow-types.png" class="img-responsive"/>
+		<div class="col-sm-8">
+			<img src="_img/comp/shadow/types.png" class="img-responsive"/>
 		</div>
 	</div>
 
@@ -104,7 +103,7 @@
 	</div>
 
 	<div class="row mt_s">
-		<div class="col-sm-6">
+		<div class="col-sm-4">
 			<p>Обычное состояние:
 				<br/>
 				<code>S</code>
@@ -116,17 +115,8 @@
 			</p>
 		</div>
 
-		<div class="col-sm-6">
-            <div class="background-card">
-
-                <div class="card">
-                    <img src="_img/comp/shadow/shadow-card.png" class="img-responsive"/>
-                </div>
-
-            </div>
-            <p class="comment">
-                Чтобы поменять тень наведите курсор на карточку
-            </p>
+		<div class="col-sm-8">
+            <img src="_img/comp/shadow/card.png" class="img-responsive"/>
 		</div>
 	</div>
 
@@ -138,15 +128,15 @@
 	</div>
 
 	<div class="row mt_s">
-		<div class="col-sm-6">
+		<div class="col-sm-4">
 			<p>Обычное состояние:
 				<br/>
 				<code>M</code>
 			</p>
 		</div>
 
-		<div class="col-sm-6">
-			<img src="_img/comp/shadow/shadow-element.png" class="img-responsive"/>
+		<div class="col-sm-8">
+			<img src="_img/comp/shadow/controls.png" class="img-responsive"/>
 		</div>
 	</div>
 

@@ -12,21 +12,21 @@
 <div class="container">
 	<div class="row">
 		<div class="col-sm-12">
-				
+
 			<div class="page-header">
 			  <h1>Кнопки  <small>Плоские, объемные</small></h1>
 			</div>
-			
+
 		</div>
 	</div>
 	<div class="row">
 		<div class="col-sm-4">
 
 			<p>Кнопки двух типов: Плоские и Объемные.</p>
-			
+
 		</div>
 		<div class="col-sm-8">
-			<img src="_img/comp/button/button-example.png" class="img-responsive" />
+			<img src="_img/comp/button/example.png" class="img-responsive" />
 		</div>
 	</div>
 	<div class="row">
@@ -40,7 +40,7 @@
 			<p>Текст кнопок стандартного размера набран шрифтом параграфа в начертании <code>semi-bold</code>.</p>
 		</div>
 		<div class="col-sm-8">
-			<img src="_img/comp/button/button-structure.png" class="img-responsive" />
+			<img src="_img/comp/button/structure.png" class="img-responsive" />
 		</div>
 	</div>
 	<div class="row mt_s">
@@ -49,12 +49,11 @@
 			<p>Не рекомендуется объединять плоские и объемные кнопки в одну группу.</p>
 		</div>
 		<div class="col-sm-8">
-			<img src="_img/comp/button/button-group-structure.png" class="img-responsive" />
+			<img src="_img/comp/button/group.png" class="img-responsive" />
 		</div>
 	</div>
-	
-	
-	
+
+
 	<div class="row mt_xl">
 		<div class="col-sm-12">
 			<hr>
@@ -68,11 +67,11 @@
 
 		</div>
 		<div class="col-sm-8">
-			<img src="_img/comp/button/button-size.png" class="img-responsive" />
+			<img src="_img/comp/button/size.png" class="img-responsive" />
 		</div>
 	</div>
 
-	
+
 
 </div>
 

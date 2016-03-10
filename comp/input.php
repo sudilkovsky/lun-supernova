@@ -26,7 +26,7 @@
 
 		</div>
 		<div class="col-sm-8">
-			<img src="_img/comp/input/input-example.png" class="img-responsive" />
+			<img src="_img/comp/input/example.png" class="img-responsive" />
 		</div>
 	</div>
 	<div class="row">
@@ -40,7 +40,7 @@
 			<p>Текст поля ввода набран шрифтом параграфа в начертании <code>regular</code>.</p>
 		</div>
 		<div class="col-sm-8">
-			<img src="_img/comp/input/input-measure.png" class="img-responsive" />
+			<img src="_img/comp/input/size.png" class="img-responsive" />
 		</div>
 	</div>
 	<div class="row mt_s">
@@ -48,7 +48,7 @@
 			<p>Плоское поле подсвечиваем при вводе.</p>
 		</div>
 		<div class="col-sm-8">
-			<img src="_img/comp/input/input-highlight.png" class="img-responsive" />
+			<img src="_img/comp/input/highlight.png" class="img-responsive" />
 		</div>
 	</div>
 
@@ -64,7 +64,7 @@
 			<!-- <p>Текст поля ввода набран шрифтом параграфа в начертании <code>regular</code>.</p> -->
 		</div>
 		<div class="col-sm-8">
-			<img src="_img/comp/input/input-default.png" class="img-responsive" />
+			<img src="_img/comp/input/placeholder.png" class="img-responsive" />
 		</div>
 	</div>
 	<div class="row mt_s">
@@ -72,7 +72,7 @@
 			<!-- <p>Плоское поле подсвечиваем при вводе.</p> -->
 		</div>
 		<div class="col-sm-8">
-			<img src="_img/comp/input/input-error.png" class="img-responsive" />
+			<img src="_img/comp/input/error.png" class="img-responsive" />
 		</div>
 	</div>
 
