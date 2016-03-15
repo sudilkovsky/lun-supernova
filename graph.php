@@ -42,21 +42,21 @@
 	</div>
 	<div class="row">
 		<div class="col-sm-4">
-			<p>Используем иконки без заполнения.</p>
+			<p>Используем иконки <a href="https://design.google.com/icons/" target="_blank">Material Icons</a></p>
         </div>
         <div class="col-sm-8">
             <img src="_img/graph/iconTypes.png" class="img-responsive" />
         </div>
     </div>
 
-    <div class="row mt_xl">
+    <!-- <div class="row mt_xl">
 		<div class="col-sm-4">
 			<p></p>
         </div>
         <div class="col-sm-8">
             <img src="_img/graph/iconSizes.png" class="img-responsive" />
         </div>
-    </div>
+    </div> -->
 
 </div>
 
