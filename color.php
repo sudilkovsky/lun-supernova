@@ -79,6 +79,8 @@
             <p>grayLighter <code>#E0E0E0</code></p>
         </div>
 
+
+
 	</div>
 	<div class="row">
 
@@ -134,6 +136,12 @@
 			<div class="color-box color-box_small" style="background-color: #BDBDBD;">
 			</div>
 			<p><code>#BDBDBD</code></p>
+		</div>
+
+        <div class="col-xs-2">
+			<div class="color-box color-box_small" style="background-color: #EEEEEE;">
+			</div>
+			<p><code>#EEEEEE</code></p>
 		</div>
 	</div>
 </div>
