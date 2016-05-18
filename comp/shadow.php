@@ -77,7 +77,7 @@
 
             <p>L
 				<br/>
-				<code>box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);</code>
+				<code>box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);</code>
 			</p>
 
 		</div>
@@ -131,7 +131,7 @@
 		<div class="col-sm-4">
 			<p>Обычное состояние:
 				<br/>
-				<code>M</code>
+				<code>S</code>
 			</p>
 		</div>
 
