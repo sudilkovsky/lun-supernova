@@ -73,6 +73,25 @@
 
 
 
+
+    <div class="row mt_xl">
+		<div class="col-sm-12">
+			<hr>
+			<h3>Состояния</h3>
+		</div>
+	</div>
+	<div class="row mt_xl">
+		<div class="col-sm-4">
+			
+
+		</div>
+		<div class="col-sm-8">
+			<img src="_img/comp/button/state.png" class="img-responsive" />
+		</div>
+	</div>
+
+
+
 </div>
 
 
