@@ -63,7 +63,7 @@
 	<div class="row">
 		<div class="col-sm-12">
 			<h3>Оттенки</h3>
-            <p>Помогают разобраться в элементах, выделить нужную информацию</p>
+            <p>Используем для кодирования: разобраться в элементах, выделить нужную информацию</p>
 		</div>
 	</div>
 
@@ -120,7 +120,7 @@
 
     <div class="row mt_xl">
 		<div class="col-xs-4">
-			Второстепенный текст, плейсхолдер
+			Уточняющий текст, плейсхолдер
 		</div>
 
 		<div class="col-xs-4">
@@ -218,6 +218,52 @@
 			<h3>Тени</h3>
 			<p>Используем чтобы показать, как объекты расположены друг относительно друга.</p>
 		</div>
+	</div>
+
+
+    <div class="row mt_xl">
+		<div class="col-xs-4">
+			Карточки
+		</div>
+
+		<div class="col-xs-4">
+			<img src="_img/colors/shadow-1.png" class="img-responsive" />
+		</div>
+
+        <div class="col-xs-4">
+            <img src="_img/colors/shadow-1-example.png" class="img-responsive" />
+        </div>
+	</div>
+
+
+
+    <div class="row mt_xl">
+		<div class="col-xs-4">
+			Кнопки
+		</div>
+
+		<div class="col-xs-4">
+			<img src="_img/colors/shadow-2.png" class="img-responsive" />
+		</div>
+
+        <div class="col-xs-4">
+            <img src="_img/colors/shadow-2-example.png" class="img-responsive" />
+        </div>
+	</div>
+
+
+    <div class="row mt_xl">
+		<div class="col-xs-4">
+            Карточка при наведении
+		</div>
+
+		<div class="col-xs-4">
+			<img src="_img/colors/shadow-3.png" class="img-responsive" />
+		</div>
+
+        <div class="col-xs-4">
+            <img src="_img/colors/shadow-3-example.png" class="img-responsive" />
+        </div>
 	</div>
 
 
