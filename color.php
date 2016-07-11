@@ -39,7 +39,9 @@
 
 
 <div class="container">
-	<div class="row">
+
+
+    <div class="row">
 		<div class="col-sm-12">
 
 			<div class="page-header">
@@ -48,102 +50,177 @@
 
 		</div>
 	</div>
+
+
+
 	<div class="row">
 		<div class="col-sm-8">
 
-
-
 		</div>
 	</div>
+
+
 	<div class="row">
 		<div class="col-sm-12">
-			<h3>Основные цвета</h3>
+			<h3>Оттенки</h3>
+            <p>Помогают разобраться в элементах, выделить нужную информацию</p>
 		</div>
 	</div>
+
+    <div class="row">
+		<div class="col-sm-8">
+
+		</div>
+	</div>
+
+
 	<div class="row mt_xl">
-		<div class="col-xs-3">
-			<div class="color-box color-box_acent">
-			</div>
-			<p>lunOrange <code>#FF9800</code></p>
+		<div class="col-xs-4">
+			Главное действие на странице  (promoted action)
 		</div>
 
-		<div class="col-xs-3">
-			<div class="color-box color-box_link">
-			</div>
-			<p>linkColor <code>#6688BB</code></p>
+		<div class="col-xs-4">
+			<img src="_img/colors/ff9800.png" class="img-responsive" />
 		</div>
 
-        <div class="col-xs-3">
-            <div class="color-box color-box_selection">
-            </div>
-            <p>grayLighter <code>#E0E0E0</code></p>
+        <div class="col-xs-4">
+            <img src="_img/colors/ff9800-example.png" class="img-responsive" />
         </div>
-
-
-
 	</div>
-	<div class="row">
 
-		<div class="col-xs-3">
-			<div class="color-box color-box_text">
-			</div>
-			<p>grayDark <code>#333333</code></p>
+    <div class="row mt_xl">
+		<div class="col-xs-4">
+			Ссылки
 		</div>
 
-		<div class="col-xs-3">
-			<div class="color-box color-box_background">
-			</div>
-			<p>bodyBG <code>#F5F5F5</code></p>
+		<div class="col-xs-4">
+			<img src="_img/colors/6688bb.png" class="img-responsive" />
 		</div>
 
-        <div class="col-xs-3">
-			<div class="color-box color-box_card">
-			</div>
-			<p>white <code>#FFFFFF</code></p>
-		</div>
-
+        <div class="col-xs-4">
+            <img src="_img/colors/6688bb-example.png" class="img-responsive" />
+        </div>
 	</div>
+
+
+    <div class="row mt_xl">
+		<div class="col-xs-4">
+			Заголовки, обычный текст
+		</div>
+
+		<div class="col-xs-4">
+			<img src="_img/colors/333333.png" class="img-responsive" />
+		</div>
+
+        <div class="col-xs-4">
+            <img src="_img/colors/333333-example.png" class="img-responsive" />
+        </div>
+	</div>
+
+
+    <div class="row mt_xl">
+		<div class="col-xs-4">
+			Второстепенный текст, плейсхолдер
+		</div>
+
+		<div class="col-xs-4">
+			<img src="_img/colors/9e9e9e.png" class="img-responsive" />
+		</div>
+
+        <div class="col-xs-4">
+            <img src="_img/colors/9e9e9e-example.png" class="img-responsive" />
+        </div>
+	</div>
+
+
+    <div class="row mt_xl">
+		<div class="col-xs-4">
+			Иконки
+		</div>
+
+		<div class="col-xs-4">
+			<img src="_img/colors/bdbdbd.png" class="img-responsive" />
+		</div>
+
+        <div class="col-xs-4">
+            <img src="_img/colors/bdbdbd-example.png" class="img-responsive" />
+        </div>
+	</div>
+
+
+
+    <div class="row mt_xl">
+		<div class="col-xs-4">
+			 Рамки, разделители
+		</div>
+
+		<div class="col-xs-4">
+			<img src="_img/colors/e0e0e0.png" class="img-responsive" />
+		</div>
+
+        <div class="col-xs-4">
+            <img src="_img/colors/e0e0e0-example.png" class="img-responsive" />
+        </div>
+	</div>
+
+
+
+    <div class="row mt_xl">
+		<div class="col-xs-4">
+			Капсулы
+		</div>
+
+		<div class="col-xs-4">
+			<img src="_img/colors/eeeeee.png" class="img-responsive" />
+		</div>
+
+        <div class="col-xs-4">
+            <img src="_img/colors/eeeeee-example.png" class="img-responsive" />
+        </div>
+	</div>
+
+
+
+    <div class="row mt_xl">
+		<div class="col-xs-4">
+			Фон
+		</div>
+
+		<div class="col-xs-4">
+			<img src="_img/colors/f5f5f5.png" class="img-responsive" />
+		</div>
+
+        <div class="col-xs-4">
+            <img src="_img/colors/f5f5f5-example.png" class="img-responsive" />
+        </div>
+	</div>
+
+
+
+    <div class="row mt_xl">
+		<div class="col-xs-4">
+			Карточки, кнопки
+		</div>
+
+		<div class="col-xs-4">
+			<img src="_img/colors/ffffff.png" class="img-responsive" />
+		</div>
+
+        <div class="col-xs-4">
+            <img src="_img/colors/ffffff-example.png" class="img-responsive" />
+        </div>
+	</div>
+
+
+
 	<div class="row">
 		<div class="col-sm-12">
-			<h3>Производные цвета</h3>
-			<p>Используются для ховеров и дополнительных вариаций (преимущественно с текстом)</p>
+			<h3>Тени</h3>
+			<p>Используем чтобы показать, как объекты расположены друг относительно друга.</p>
 		</div>
 	</div>
-	<div class="row mt_xl">
-		<div class="col-xs-2">
-			<div class="color-box color-box_small" style="background-color: #FD9F41;">
-			</div>
-			<p><code>#FD9F41</code></p>
-		</div>
-		<div class="col-xs-2">
-			<div class="color-box color-box_small" style="background-color: #606ea5;">
-			</div>
-			<p><code>#606EA5</code></p>
-		</div>
-	</div>
-	<div class="row">
-		<div class="col-xs-2">
-			<div class="color-box color-box_small" style="background-color: #000000;">
-			</div>
-			<p><code>#000000</code></p>
-		</div>
-		<div class="col-xs-2">
-			<div class="color-box color-box_small" style="background-color: #9E9E9E;">
-			</div>
-			<p><code>#9E9E9E</code></p>
-		</div>
-		<div class="col-xs-2">
-			<div class="color-box color-box_small" style="background-color: #BDBDBD;">
-			</div>
-			<p><code>#BDBDBD</code></p>
-		</div>
 
-        <div class="col-xs-2">
-			<div class="color-box color-box_small" style="background-color: #EEEEEE;">
-			</div>
-			<p><code>#EEEEEE</code></p>
-		</div>
-	</div>
+
 </div>
 
 

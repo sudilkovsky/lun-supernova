@@ -82,7 +82,7 @@
 	</div>
 	<div class="row mt_xl">
 		<div class="col-sm-4">
-			
+
 
 		</div>
 		<div class="col-sm-8">
