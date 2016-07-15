@@ -228,7 +228,6 @@
 
 		<div class="col-xs-4">
 			<img src="_img/colors/shadow-1.png" class="img-responsive" />
-            <code>box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);</code>
 		</div>
 
         <div class="col-xs-4">
@@ -245,7 +244,6 @@
 
 		<div class="col-xs-4">
 			<img src="_img/colors/shadow-2.png" class="img-responsive" />
-            <code>box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);</code>
 		</div>
 
         <div class="col-xs-4">
@@ -261,7 +259,6 @@
 
 		<div class="col-xs-4">
 			<img src="_img/colors/shadow-3.png" class="img-responsive" />
-            <code>box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);</code>
 		</div>
 
         <div class="col-xs-4">

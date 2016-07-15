@@ -10,60 +10,48 @@
 
 
 <div class="container">
-	<div class="row">
+
+    <div class="row">
 		<div class="col-sm-12">
 
 			<div class="page-header">
-			  <h1>Кнопки  <small>Плоские, объемные</small></h1>
+			  <h1>Кнопки</h1>
 			</div>
-
 		</div>
 	</div>
-	<div class="row">
-		<div class="col-sm-4">
 
-			<p>Кнопки двух типов: Плоские и Объемные.</p>
 
-		</div>
-		<div class="col-sm-8">
-			<img src="_img/comp/button/example.png" class="img-responsive" />
-		</div>
-	</div>
+
 	<div class="row">
 		<div class="col-sm-12">
-			<hr>
-			<h3>Структура и отступы</h3>
+
+			<h3>Тип <small>type</small></h3>
 		</div>
 	</div>
+
+
 	<div class="row mt_xl">
 		<div class="col-sm-4">
-			<p>Текст кнопок стандартного размера набран шрифтом параграфа в начертании <code>semi-bold</code>.</p>
+            <p>Плоские и объёмные.</p>
+            <p>Плоские используются на белом фоне.</p>
 		</div>
 		<div class="col-sm-8">
-			<img src="_img/comp/button/structure.png" class="img-responsive" />
+			<img src="_img/comp/button/type.png" class="img-responsive" />
 		</div>
 	</div>
-	<div class="row mt_s">
-		<div class="col-sm-4">
-			<p>Объединяя кнопки в группы ключевое действие размещаем справа.</p>
-			<p>Не рекомендуется объединять плоские и объемные кнопки в одну группу.</p>
-		</div>
-		<div class="col-sm-8">
-			<img src="_img/comp/button/group.png" class="img-responsive" />
-		</div>
-	</div>
+
 
 
 	<div class="row mt_xl">
 		<div class="col-sm-12">
 			<hr>
-			<h3>Размеры кнопок</h3>
+			<h3>Размер <small>size</small></h3>
 		</div>
 	</div>
 	<div class="row mt_xl">
 		<div class="col-sm-4">
-			<p>Размер М &mdash; стандартный. В крайних случаях при необходимости используем альтернативные варианты размеров кнопок.</p>
-			<p>В любом из произвольных размеров высота кнопки должна быть кратной 4 для сохранения вертикального ритма.</p>
+            <p>XS, S, M, L</p>
+			<p>Размер М — стандартный.</p>
 
 		</div>
 		<div class="col-sm-8">
@@ -73,22 +61,45 @@
 
 
 
-
     <div class="row mt_xl">
 		<div class="col-sm-12">
 			<hr>
-			<h3>Состояния</h3>
+			<h3>Приоритет <small>priority</small></h3>
 		</div>
 	</div>
 	<div class="row mt_xl">
 		<div class="col-sm-4">
-
-
+            <p>Первостепенные и второстепенные</p>
 		</div>
 		<div class="col-sm-8">
-			<img src="_img/comp/button/state.png" class="img-responsive" />
+			<img src="_img/comp/button/priority.png" class="img-responsive" onmouseover="this.src='_img/comp/button/priority-hover.png';" onmouseout="this.src='_img/comp/button/priority.png';"/>
+            Наведите на картинку для состояния hover
 		</div>
 	</div>
+
+
+
+    <div class="row">
+		<div class="col-sm-12">
+
+			<div class="page-header">
+                <h1>Группы кнопок</h1>
+			</div>
+
+		</div>
+	</div>
+
+    <div class="row">
+		<div class="col-sm-4">
+    			<p>Объединяя кнопки в группы ключевое действие размещаем справа.</p>
+    			<p>Не рекомендуется объединять плоские и объемные кнопки в одну группу.</p>
+		</div>
+        <div class="col-sm-8">
+            <img src="_img/comp/button/group.png" class="img-responsive" />
+        </div>
+	</div>
+
+
 
 
 
